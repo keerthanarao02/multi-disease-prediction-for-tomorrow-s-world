@@ -2,6 +2,7 @@
 
 # multi-disease-prediction-for-tomorrow-s-world
 " Developing an ML-based system for accurate multi-disease prediction using machine learning algorithms and medical data."
+
 ![LOGO](https://github.com/keerthanarao02/multi-disease-prediction-for-tomorrow-s-world/assets/102549038/55cb15d2-7174-4133-b4e3-fda485196496)
 
 The world is facing an unprecedented challenge in the form of diseases that spread rapidly and have the potential to cause widespread devastation. The current pandemic has highlighted just how unprepared we are to deal with such threats, and it has become clear that we need better tools to detect and respond to outbreaks before they become global crises.
